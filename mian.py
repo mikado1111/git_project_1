@@ -1,6 +1,8 @@
 def my_superfunction():
     print('What an awesome print!')
     print("Hello world!")
+    if True:
+        print(True)
 
 def main():
     print('My first git program')
