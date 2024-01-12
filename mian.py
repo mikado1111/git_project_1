@@ -10,6 +10,8 @@ def main():
     print('Again')
     print('UFO came and added this line')
     my_superfunction()
+    for i in range(10):
+        print("Работа с гитом")
 
 
 if __name__ == '__main__':
